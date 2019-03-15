@@ -21,7 +21,7 @@
 <img src=https://user-images.githubusercontent.com/25292248/54423388-ec127100-4753-11e9-8d35-fa936f64da4b.PNG width=320>
 <img src=https://user-images.githubusercontent.com/25292248/54423389-ecab0780-4753-11e9-9eea-0c61644b8652.PNG width=320>
 
-### 走るためのマップの制作も（制作途中ですが）
+### 走るためのマップの制作も（このリポジトリにはありません）
 <img src=https://user-images.githubusercontent.com/25292248/54424148-a0f95d80-4755-11e9-84d7-05995051ff13.PNG width=320>
 <img src=https://user-images.githubusercontent.com/25292248/54424146-a0f95d80-4755-11e9-899a-d8b2be80b05c.PNG width=320>
 <img src=https://user-images.githubusercontent.com/25292248/54424147-a0f95d80-4755-11e9-85b4-d51de00ee683.PNG width=320>
